@@ -1,4 +1,6 @@
-# Real-Time Dithering - Project 001
+# Max-Python-AI-Gen-001
+
+**GitHub:** https://github.com/djDAOjones/Max-Python-AI-Gen-001
 
 AI-driven Max/MSP patch generator for real-time screen region capture and dithering preview using MaxPy.
 
@@ -88,7 +90,7 @@ for s, d in zip(sources, dests):
 ## Project Structure
 
 ```
-realtime-dithering-001/
+Max-Python-AI-Gen-001/
 ├── venv/                   # Python virtual environment
 ├── test_maxpy.py          # MaxPy test script
 ├── hello_world.maxpat     # Generated test patch
