@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+.venv/
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Max/MSP backup files
+*.maxpat.orig
+*.maxpat~
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated files (keep hello_world.maxpat as an example)
+# *.maxpat
+
+# Logs
+*.log
